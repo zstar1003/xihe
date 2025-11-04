@@ -93,7 +93,6 @@ dependencies:
   http: ^1.4.0              # 网络请求
   google_fonts: ^6.1.0      # 字体
   cached_network_image: ^3.3.1  # 图片缓存
-  share_plus: ^7.2.2        # 分享功能
   shimmer: ^3.0.0           # 加载动画
 ```
 
