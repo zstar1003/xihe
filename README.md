@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<div align="center" width="300">
 
-![羲和](assets/logo/logo.png)
-
+<div align="center">
+  <img src="assets/logo/logo.png" width="400" alt="羲和">
 </div>
 
 **一款优雅的桌面诗词摆件应用**
