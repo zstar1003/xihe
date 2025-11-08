@@ -1,6 +1,6 @@
 # 羲和 
 
-<div align="center">
+<div align="center" width="300">
 
 ![羲和](assets/logo/logo.png)
 
@@ -12,6 +12,10 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)]()
 
 *让古典诗词点缀你的数字生活*
+
+安卓下载地址：https://www.pgyer.com/xihe
+
+苹果下载地址：直接在App Store 中搜索“羲和”。
 
 
 </div>
