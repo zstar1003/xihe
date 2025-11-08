@@ -1,8 +1,12 @@
 # 羲和 
 
+<div align="center">
+
 <div align="center" width="300">
 
 ![羲和](assets/logo/logo.png)
+
+</div>
 
 **一款优雅的桌面诗词摆件应用**
 
@@ -13,12 +17,11 @@
 
 *让古典诗词点缀你的数字生活*
 
+</div>
+
 安卓下载地址：https://www.pgyer.com/xihe
 
 苹果下载地址：直接在App Store 中搜索“羲和”。
-
-
-</div>
 
 ---
 
