@@ -1,10 +1,8 @@
-# 羲和 
-
 <div align="center">
 
 
 <div align="center">
-  <img src="assets/logo/logo.png" width="400" alt="羲和">
+  <img src="assets/logo/logo.png" width="200" alt="羲和">
 </div>
 
 **一款优雅的桌面诗词摆件应用**
